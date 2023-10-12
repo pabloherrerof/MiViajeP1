@@ -160,7 +160,7 @@
     },
     "video": {
       "miniatura": "https://images.unsplash.com/photo-1610976689391-c749d937dcab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1512&q=80",
-      "link": "assets/video/okinawa1.mp4"
+      "link": "assets/video/okinawa.mp4"
     },
     "actividades": ["Visit Shurijo Castle", "Relax at Naminoue Beach", "Explore Okinawa Churaumi Aquarium", "Dine in Kokusai Dori Street"],
     "hotel": {
