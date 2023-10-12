@@ -3,7 +3,7 @@
     <div class="container slide-in-elliptic-top-fwd "  *ngIf="filteredData.length > 0"   >
         <div class="dayContainer" *ngFor="let day of filteredData; let i = index" [routerLink]="['/day', day.dia]">
             <div class="day">
-         <h2 class="number">{{day.dia}}</h2>
+         <h2>DAY</h2><h2 class="number">{{day.dia}}</h2>
             </div>
             
             <div class="image" [style.backgroundImage]="'url(' + day.ciudad.imagen + ')'"></div>
