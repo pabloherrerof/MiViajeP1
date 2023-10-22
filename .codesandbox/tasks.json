@@ -20,7 +20,7 @@
     },
     "start": {
       "name": "start",
-      "command": "npm run start",
+      "command": "npm run start ",
       "runAtStart": true
     },
     "build": {
